@@ -30,7 +30,7 @@ We recommend to use a virtual environment and to install the specific versions o
 
 Usage is described in the jupyter notebook [ItEM](ItEM.ipynb)
 
-To use ItEM, just clone or download the repository. If you download it as ZIP, make sure to manually download the [vector file](vectors/COUNT.repubblica.itwac.TOP240.vec) and place it the [vector directory](vectors/) by overriding the existing file.
+To use ItEM, just clone or download the repository. If you download it as ZIP, make sure to manually download the [vector file](vectors/COUNT.repubblica.itwac.TOP240.vec) and place it the [vector directory](vectors/) by overwriting the existing file.
 
 
 ## Citation 
